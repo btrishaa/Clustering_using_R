@@ -1,5 +1,7 @@
 # Clustering_using_R
 
+https://github.com/btrishaa/Clustering_using_R.git
+
 clustering (Both hierarchical and K means clustering) for the airlines data to obtain optimum number of clusters. 
 
 Data Description:
